@@ -49,8 +49,6 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-}
-
-.active {
-	background-color: black;
+	outline: 1px solid black;
+	outline-offset: -1px;
 }
